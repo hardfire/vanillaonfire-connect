@@ -1,0 +1,12 @@
+vanillaonfire-connect
+=====================
+
+Vanilla2 JsConnect Module for CI-Bonfire
+
+Setting Up.
+ - Install Vanilla
+ - Download Vanilla JS Connect from http://vanillaforums.org/addon/jsconnect-plugin
+ - move the helper file to bonfire/application/helpers/vanilla
+ - edit config/config.php to change your clientID and secret accordingly
+
+ Enjoy!
